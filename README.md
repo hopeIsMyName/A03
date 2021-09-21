@@ -4,6 +4,7 @@ Homework for September 28
 
 **PART 1
 **
+
 Download Webstorm from: https://www.jetbrains.com/student/, Download Git as a Local Program with:  https://git-scm.com/downloads, and set up a GitHub account
 
 In Webstorm with (ctrl+alt+s) to access system preferences. Type control Git. Enter the path to the git.exe
@@ -28,3 +29,5 @@ Push change to the remote repository by clicking git => push
 The file on Webstorm should now be on GitHub. In Github, click settings, check the repository name
 
 Select “Master Branch” and note the published URL. 
+
+**PART 2**
