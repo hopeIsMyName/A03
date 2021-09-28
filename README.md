@@ -2,8 +2,7 @@
 Homework for September 28
 
 
-**PART 1
-**
+PART 1
 
 Download Webstorm from: https://www.jetbrains.com/student/, Download Git as a Local Program with:  https://git-scm.com/downloads, and set up a GitHub account
 
@@ -30,4 +29,20 @@ The file on Webstorm should now be on GitHub. In Github, click settings, check t
 
 Select “Master Branch” and note the published URL. 
 
-**PART 2**
+
+=========================================================================
+PART 2
+-**Branch** - isolates development work without affecting other branches in the repository
+-**Clone** - point an existing repository ad make a copy of it in a new directory at a new location
+-**Commit** - an individual change to a file, creating a new "hash" (allows for you to keep record of what changes were made when and by who
+-**Fetch** - a command that downloads commits, files, and refs from a repository into a your local repository (done if you want everyone else to see what you've been working on)
+-**GIT** an version control system maintained on your personal machiene
+-**Github** a cloud based GIT repository hosting service
+-**Merge** - takes independent lines of development, integrated into a single branch
+-**Merge Conflict** - occrus when competing changes are made to the same line of a file
+-**Push** - sends the most recent commit from local repo up to GitHub
+-**Pull** - graps changes from GitHub repository and merges them ito local repository
+-**Remote** - a repostitory hosted on the Interet
+-**Repository** -contains all of a project's files ad each file's revision history
+
+
