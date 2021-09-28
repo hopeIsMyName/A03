@@ -31,7 +31,9 @@ Select “Master Branch” and note the published URL.
 
 
 =========================================================================
+
 PART 2
+
 -**Branch** - isolates development work without affecting other branches in the repository
 
 -**Clone** - point an existing repository ad make a copy of it in a new directory at a new location
